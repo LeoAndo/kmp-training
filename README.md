@@ -1,5 +1,5 @@
 # kmm-training
-trainig for KMM(Kotlin Multiplatform Mobile)
+trainig for KMM(Kotlin Multiplatform)
 
 # development environment
 
